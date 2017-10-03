@@ -1,0 +1,4 @@
+bagoly
+kutya
+macska
+zsiraf
